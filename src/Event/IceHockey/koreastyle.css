@@ -1,0 +1,14 @@
+.box{
+    /*box styles*/
+    /* width:200px; height:200px; */
+    background-color:#aaa;
+    border:solid 2px #000;
+    /* border-radius:20px; */
+    margin:0 auto;
+    
+    /*animation listner*/
+    transition:1s;
+  }
+  
+  /*On Click styles*/
+  .box:active{width:100px; height:100px;}
